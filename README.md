@@ -23,6 +23,7 @@ Grid-Chronicles is a powerful habit tracking application that combines the flexi
   - Account management dashboard
   - Rule modification interface
   - Mobile-first responsive design
+
 📈 Analytics & Insights
  - Monthly and yearly performance reviews
  - Custom scoring algorithm
