@@ -1,4 +1,4 @@
-# Grid-Chronicles
+# Grid-Chronicles (Stay Tuned | Currently Under Progress!)
 Habit Tracker Meets Excel
 Grid-Chronicles is a powerful habit tracking application that combines the flexibility of spreadsheets with engaging gamification elements to make building habits both effective and enjoyable.
 
