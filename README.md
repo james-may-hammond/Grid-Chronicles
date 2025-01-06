@@ -11,27 +11,26 @@ Grid-Chronicles is a powerful habit tracking application that combines the flexi
 
 🎯 Core Components
 
-- 📊 Data Entry System
+📊 Data Entry System
  - Spreadsheet-inspired interface with modern UI enhancements
  - Streamlined mobile input optimization
  - Skip day indicators and monthly averages
  - Automated monthly spread generation
 
-- 📱 User Experience
- - Intuitive onboarding process
- - Personalization options
- - Account management dashboard
- - Rule modification interface
- - Mobile-first responsive design
-
-- 📈 Analytics & Insights
+📱 User Experience
+  - Intuitive onboarding process
+  - Personalization options
+  - Account management dashboard
+  - Rule modification interface
+  - Mobile-first responsive design
+📈 Analytics & Insights
  - Monthly and yearly performance reviews
  - Custom scoring algorithm
  - Comprehensive statistics dashboard
  - Data export functionality
  - Average spreads for monthly tracking
 
-- ⚙️ Technical Features
+⚙️ Technical Features
  - Formula-based rule system (Excel-like programming)
  - Performance-optimized for snappy interactions
  - Secure user authentication
